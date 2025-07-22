@@ -43,7 +43,7 @@ Visuals include:
 
 ## 🙏 Acknowledgement
 
-This project is inspired by the [Coursera Guided Project](https://www.coursera.org/learn/analyze-social-media-python/home/module/1) **"Clean and Analyze Social Media Usage Data with Python"**, which provided a strong foundation in data cleaning, exploration, and visualization using Python.
+This project is inspired by the [Coursera Guided Project](https://www.coursera.org/learn/analyze-social-media-python/home) **"Clean and Analyze Social Media Usage Data with Python"**, which provided a strong foundation in data cleaning, exploration, and visualization using Python.
 
 ---
 
