@@ -23,6 +23,17 @@ Understanding what drives engagement on social media is key for creators and mar
 
 ---
 
+## 📊 Exploratory Data Analysis (EDA)
+
+- **Histogram**: Visualized the distribution of tweet likes to understand engagement spread and skewness.
+- **Boxplot**: Compared likes across categories to detect outliers and measure central tendency.
+- **Descriptive Statistics**: Used `.describe()` and `.groupby()` to calculate overall and category-wise averages.
+- **Category Trends**:
+  - Categories like **Fitness**, **Travel**, and **Health** received the highest average likes.
+  - Less popular categories included **Culture** and **Family**.
+
+---
+
 ## ✅ Solution
 
 By analyzing the cleaned data, I identified that **Fitness**, **Travel**, and **Health** categories had the highest average engagement. These insights can inform content strategy for better performance on social platforms.
